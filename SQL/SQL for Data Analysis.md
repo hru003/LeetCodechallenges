@@ -11,4 +11,4 @@ Tables contain fields, which hold the data.
   Views are essentially stored queries that can be referenced in the same way as a table. 
   Functions allow commonly used sets of calculations or procedures to be stored and easily referenced in queries. 
   
-  ![Image_1](https://github.com/hru003/LeetCodechallenges/blob/SQL/Overview_of_DB_and_Objects.jpg)
+![Overview_of_DB_and_Objects](https://user-images.githubusercontent.com/16577898/206371691-ef43a1ea-026b-450f-afda-88f41d88b3ae.jpg)
